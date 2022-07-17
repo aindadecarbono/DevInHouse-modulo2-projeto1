@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\coelh\\OneDrive\\Desktop\\DEVinHouse NDD\\exercícios\\Modulo2\\Projeto 1\\DevInHouse-modulo2-projeto1\\DEVCar\\DEVCar.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\coelh\\OneDrive\\Desktop\\DEVinHouse NDD\\exercícios\\Modulo2\\Projeto 1\\DevInHouse-modulo2-projeto1\\DEVCar\\DEVCar.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\coelh\\OneDrive\\Desktop\\DEVinHouse NDD\\exercícios\\Modulo2\\Projeto 1\\DevInHouse-modulo2-projeto1\\DEVCar\\DEVCar.csproj",
+        "projectName": "DEVCar",
+        "projectPath": "C:\\Users\\coelh\\OneDrive\\Desktop\\DEVinHouse NDD\\exercícios\\Modulo2\\Projeto 1\\DevInHouse-modulo2-projeto1\\DEVCar\\DEVCar.csproj",
+        "packagesPath": "C:\\Users\\coelh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\coelh\\OneDrive\\Desktop\\DEVinHouse NDD\\exercícios\\Modulo2\\Projeto 1\\DevInHouse-modulo2-projeto1\\DEVCar\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\coelh\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

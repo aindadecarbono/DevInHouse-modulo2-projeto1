@@ -1,0 +1,15 @@
+C:\Users\coelh\OneDrive\Desktop\DEVinHouse NDD\exercícios\Modulo2\Projeto 1\DevInHouse-modulo2-projeto1\DEVCar\bin\Debug\net6.0\DEVCar.exe
+C:\Users\coelh\OneDrive\Desktop\DEVinHouse NDD\exercícios\Modulo2\Projeto 1\DevInHouse-modulo2-projeto1\DEVCar\bin\Debug\net6.0\DEVCar.deps.json
+C:\Users\coelh\OneDrive\Desktop\DEVinHouse NDD\exercícios\Modulo2\Projeto 1\DevInHouse-modulo2-projeto1\DEVCar\bin\Debug\net6.0\DEVCar.runtimeconfig.json
+C:\Users\coelh\OneDrive\Desktop\DEVinHouse NDD\exercícios\Modulo2\Projeto 1\DevInHouse-modulo2-projeto1\DEVCar\bin\Debug\net6.0\DEVCar.dll
+C:\Users\coelh\OneDrive\Desktop\DEVinHouse NDD\exercícios\Modulo2\Projeto 1\DevInHouse-modulo2-projeto1\DEVCar\bin\Debug\net6.0\DEVCar.pdb
+C:\Users\coelh\OneDrive\Desktop\DEVinHouse NDD\exercícios\Modulo2\Projeto 1\DevInHouse-modulo2-projeto1\DEVCar\obj\Debug\net6.0\DEVCar.csproj.AssemblyReference.cache
+C:\Users\coelh\OneDrive\Desktop\DEVinHouse NDD\exercícios\Modulo2\Projeto 1\DevInHouse-modulo2-projeto1\DEVCar\obj\Debug\net6.0\DEVCar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coelh\OneDrive\Desktop\DEVinHouse NDD\exercícios\Modulo2\Projeto 1\DevInHouse-modulo2-projeto1\DEVCar\obj\Debug\net6.0\DEVCar.AssemblyInfoInputs.cache
+C:\Users\coelh\OneDrive\Desktop\DEVinHouse NDD\exercícios\Modulo2\Projeto 1\DevInHouse-modulo2-projeto1\DEVCar\obj\Debug\net6.0\DEVCar.AssemblyInfo.cs
+C:\Users\coelh\OneDrive\Desktop\DEVinHouse NDD\exercícios\Modulo2\Projeto 1\DevInHouse-modulo2-projeto1\DEVCar\obj\Debug\net6.0\DEVCar.csproj.CoreCompileInputs.cache
+C:\Users\coelh\OneDrive\Desktop\DEVinHouse NDD\exercícios\Modulo2\Projeto 1\DevInHouse-modulo2-projeto1\DEVCar\obj\Debug\net6.0\DEVCar.dll
+C:\Users\coelh\OneDrive\Desktop\DEVinHouse NDD\exercícios\Modulo2\Projeto 1\DevInHouse-modulo2-projeto1\DEVCar\obj\Debug\net6.0\refint\DEVCar.dll
+C:\Users\coelh\OneDrive\Desktop\DEVinHouse NDD\exercícios\Modulo2\Projeto 1\DevInHouse-modulo2-projeto1\DEVCar\obj\Debug\net6.0\DEVCar.pdb
+C:\Users\coelh\OneDrive\Desktop\DEVinHouse NDD\exercícios\Modulo2\Projeto 1\DevInHouse-modulo2-projeto1\DEVCar\obj\Debug\net6.0\DEVCar.genruntimeconfig.cache
+C:\Users\coelh\OneDrive\Desktop\DEVinHouse NDD\exercícios\Modulo2\Projeto 1\DevInHouse-modulo2-projeto1\DEVCar\obj\Debug\net6.0\ref\DEVCar.dll
